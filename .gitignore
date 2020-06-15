@@ -1,0 +1,8 @@
+/vendor/
+
+## IDE support
+*.buildpath
+*.project
+/.settings
+/.idea
+/nbproject/*
